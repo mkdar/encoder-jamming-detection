@@ -1,7 +1,5 @@
 # Transformer-Based Jamming Detection
 
-This is the smallest runnable version of the project.
-
 ## Files
 - `project/jammer_sim.py` - synthetic OFDM jammer data generator
 - `project/models.py` - Transformer and MLP model definitions
